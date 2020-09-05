@@ -3,4 +3,4 @@ _______________________________
 
 This project is one of the exercises from the course I was learnig from.
 
-### NOT MOBILE VERSION, ONLY DESKTOP.
+### NO MOBILE VERSION, ONLY DESKTOP.
